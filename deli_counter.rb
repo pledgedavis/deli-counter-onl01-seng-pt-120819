@@ -1,4 +1,5 @@
 # Write your code here.
+<<<<<<< HEAD
 # katz_deli=["logan", "avi" , "spencer"]
  def line(katz_deli)
    if katz_deli.length <= 0
@@ -36,6 +37,36 @@ puts "Currently serving Logan."
   
 end
 end
+=======
+
+ def line(katz_deli)
+   if katz_deli.length == 0
+     puts "The line is currently empty."  
+   elsif katz_deli.length > 0 
+   the_line_is_currently = ""
+   # we have our array of names
+   # we have our beginning string of "The line is currently: "
+   # we need to iterate over the names and for each one, add it to the string.
+   # return the string (like - string )
+     
+      
+ end
+ end
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> 2e25a7ebe823a257eaed783a4b27ab8855906b43
 
 
 
